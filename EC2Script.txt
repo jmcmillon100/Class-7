@@ -31,7 +31,7 @@ echo "
 <h1>AWS Instance Details</h1>
 <h1>The World Is Mine</h1>
 
-<p> I, Joshua, thank Theo and the group leaders for teaching me about EC2s in AWS. One step closer to escaping Keisha! With this class, I will net 200K per year. </p> 
+<p> I Joshua, thank Theo and the group leaders for teaching me about EC2s in AWS. One step closer to escaping Keisha! With this class, I will net 200K per year. </p> 
 
 <br>
 # insert an image or GIF
